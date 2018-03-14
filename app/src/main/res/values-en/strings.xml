@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ABC</string>
+    <string name="anchor">Anchor</string>
+    <string name="cop">Colombian Peso</string>
+    <string name="dije">Dije</string>
+    <string name="gold">Gold, Pink Gold</string>
+    <string name="hammer">Hammer</string>
+    <string name="leather">Leather</string>
+    <string name="material">Material</string>
+    <string name="money">Money</string>
+    <string name="nickel">Nickel</string>
+    <string name="not_empty">Enter a value greater than zeroEnter a value greater than zero.</string>
+    <string name="quantity">Quantity</string>
+    <string name="rope">Rope</string>
+    <string name="silver">Silver</string>
+    <string name="type">Type</string>
+    <string name="usd">Dollars</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ABC</string>
+    <string name="material">Material</string>
+    <string name="dije">Dije</string>
+    <string name="type">Tipo</string>
+    <string name="quantity">Cantidad</string>
+    <string name="leather">Cuero</string>
+    <string name="rope">Cuerda</string>
+    <string name="hammer">Martillo</string>
+    <string name="anchor">Ancla</string>
+    <string name="gold">Oro, Oro Rosa</string>
+    <string name="silver">Plata</string>
+    <string name="nickel">Níquel</string>
+    <string name="cop">Pesos Colombianos</string>
+    <string name="usd">Dólares</string>
+    <string name="money">Moneda</string>
+    <string name="not_empty">Digite un valor mayor a cero.</string>
+    <string-array name="materials">
+        <item>@string/leather</item>
+        <item>@string/rope</item>
+    </string-array>
+    <string-array name="dijes">
+        <item>@string/hammer</item>
+        <item>@string/anchor</item>
+    </string-array>
+    <string-array name="types">
+        <item>@string/gold</item>
+        <item>@string/silver</item>
+        <item>@string/nickel</item>
+    </string-array>
+    <string-array name="moneys">
+        <item>@string/cop</item>
+        <item>@string/usd</item>
+    </string-array>
+</resources>
